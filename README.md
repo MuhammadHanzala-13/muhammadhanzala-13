@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @muhammadhanzala-13
-- 👀 I’m interested in makes python projects 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muhammad Hanzala 
+- 👀 I’m interested in exploring new tech
+- 🌱 I’m currently learning ML 
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me -> https://github.com/muhammadhanzala-13
 
 <!---
 muhammadhanzala-13/muhammadhanzala-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
